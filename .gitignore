@@ -1,0 +1,32 @@
+#python
+__pycache__
+.Python
+
+# eclipse
+.classpath
+.project
+.settings/
+
+#pycharm
+/.idea/
+*.iml
+
+#vscode
+/.vscode/
+
+/venv/
+/env/
+
+# node
+node_modules/
+
+
+__pycache__
+.ipynb_checkpoints
+.models
+
+.env
+.env.dev
+.env.prod
+*.log
+
